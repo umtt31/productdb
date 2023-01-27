@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\AspNetCoreMvc003.props" />
+</Project>
